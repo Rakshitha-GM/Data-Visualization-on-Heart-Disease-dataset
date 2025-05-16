@@ -1,5 +1,5 @@
 # Data-Visualization-on-Heart-Disease-dataset
-Project Title: Heart Disease Analysis and Prediction using Machine Learning
+Project Title: Heart Disease Analysis 
 Platform: Kaggle (Can also be implemented locally using Jupyter Notebook)
 
 ##Overview:
